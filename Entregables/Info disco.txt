@@ -1,0 +1,12 @@
+UUID:           1699411b-75f7-4de2-96f5-3f3be147ed1e
+Parent UUID:    base
+State:          locked read
+Type:           normal (base)
+Location:       D:\LFS\LFS15842.vdi
+Storage format: VDI
+Format variant: dynamic default
+Capacity:       20480 MBytes
+Size on disk:   2242 MBytes
+Encryption:     disabled
+In use by VMs:  LFS15842 (UUID: 1df56018-ff30-4858-94e0-f641985a789f) [LFS-Preparada (UUID: d970bd24-4f95-4d02-a2a3-f5cf31b0583b)]
+Child UUIDs:    3afd56df-f201-4c72-a248-ddca9748aae7
